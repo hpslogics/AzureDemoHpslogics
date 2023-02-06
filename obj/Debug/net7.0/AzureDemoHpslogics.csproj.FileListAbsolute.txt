@@ -31,3 +31,5 @@ C:\Learning\AzureDemoHpslogics\obj\Debug\net7.0\refint\AzureDemoHpslogics.dll
 C:\Learning\AzureDemoHpslogics\obj\Debug\net7.0\AzureDemoHpslogics.pdb
 C:\Learning\AzureDemoHpslogics\obj\Debug\net7.0\AzureDemoHpslogics.genruntimeconfig.cache
 C:\Learning\AzureDemoHpslogics\obj\Debug\net7.0\ref\AzureDemoHpslogics.dll
+C:\Learning\AzureDemoHpslogics\obj\Debug\net7.0\AzureDemoHpslogics.RazorAssemblyInfo.cache
+C:\Learning\AzureDemoHpslogics\obj\Debug\net7.0\AzureDemoHpslogics.RazorAssemblyInfo.cs
