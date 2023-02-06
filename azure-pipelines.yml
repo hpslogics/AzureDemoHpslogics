@@ -24,3 +24,12 @@ steps:
   inputs:
     command: 'build'
     projects: 'AzureDemoHpslogics.csproj'
+- task: CopyFiles@2
+  inputs:
+    Contents: '**'
+    TargetFolder: '$(build.artifactstagingdirectory)'
+- task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    ArtifactName: 'hpslogics.AzureDemoHpslogics'
+    publishLocation: 'Container'
